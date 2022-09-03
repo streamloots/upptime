@@ -6,15 +6,15 @@ sites:
   - name: WWW
     url: https://www.streamloots.com
   - name: API
-    url: https://api.streamloots.com
+    url: https://api.streamloots.com/heartbeat
   - name: Widgets
-    url: https://widgets.streamloots.com
+    url: https://widgets.streamloots.com/heartbeat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Streamloots Status Site
   introTitle: Latest Updates
