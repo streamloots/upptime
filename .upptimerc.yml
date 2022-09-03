@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://static.streamloots.com/1ee0e8bc-5be9-4cd0-ae7f-f2ceb707ab44/brand/streamloots-hor_coral_black.svg
+  logoUrl: https://static.streamloots.com/1ee0e8bc-5be9-4cd0-ae7f-f2ceb707ab44/brand/streamloots-symbol_coral.svg
   name: Streamloots Status Site
   introTitle: Latest Updates
   introMessage: Site to announce any maintenance and the current status of Streamloots
