@@ -7,10 +7,12 @@ sites:
     url: https://www.streamloots.com
   - name: "WWW | Streamers"
     url: https://www.streamloots.com/streamers
-  - name: API
+  - name: "API"
     url: https://api.streamloots.com/heartbeat
-  - name: Widgets
+  - name: "Widgets"
     url: https://widgets.streamloots.com/heartbeat
+  - name: "Blog"
+    url: https://blog.streamloots.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
