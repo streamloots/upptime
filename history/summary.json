@@ -22,36 +22,40 @@
     "url": "https://www.streamloots.com/streamers",
     "icon": "https://favicons.githubusercontent.com/www.streamloots.com",
     "slug": "www-streamers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 862,
-    "timeWeek": 643,
-    "timeMonth": 538,
-    "timeYear": 538,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 528,
+    "timeWeek": 587,
+    "timeMonth": 522,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.streamloots.com/heartbeat",
     "icon": "https://favicons.githubusercontent.com/api.streamloots.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 132,
-    "timeWeek": 405,
-    "timeMonth": 302,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 197,
+    "timeWeek": 387,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "Widgets",
