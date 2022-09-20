@@ -76,9 +76,9 @@
     "url": "https://blog.streamloots.com",
     "icon": "https://favicons.githubusercontent.com/blog.streamloots.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 1213,
     "timeMonth": 1268,
     "timeYear": 1268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   }
 ]
