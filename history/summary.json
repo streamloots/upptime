@@ -44,9 +44,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 267,
     "timeDay": 216,
@@ -54,7 +54,6 @@
     "timeMonth": 272,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-12-22": 5,
       "2022-10-16": 19,
       "2022-09-20": 15
     }
