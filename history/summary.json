@@ -6,18 +6,16 @@
     "slug": "www-landing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2118,
-    "timeDay": 2154,
-    "timeWeek": 2206,
-    "timeMonth": 2078,
-    "timeYear": 2118,
-    "dailyMinutesDown": {
-      "2023-01-16": 9
-    }
+    "time": 2117,
+    "timeDay": 2387,
+    "timeWeek": 2186,
+    "timeMonth": 2065,
+    "timeYear": 2117,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WWW - Streamers",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 467,
-    "timeDay": 56,
-    "timeWeek": 523,
-    "timeMonth": 396,
-    "timeYear": 467,
+    "time": 465,
+    "timeDay": 244,
+    "timeWeek": 547,
+    "timeMonth": 372,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2022-09-20": 15
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 115,
-    "timeWeek": 460,
-    "timeMonth": 360,
+    "timeDay": 344,
+    "timeWeek": 491,
+    "timeMonth": 359,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2022-10-16": 19,
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 59,
-    "timeWeek": 216,
-    "timeMonth": 182,
+    "timeDay": 229,
+    "timeWeek": 243,
+    "timeMonth": 178,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -89,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1231,
-    "timeDay": 885,
-    "timeWeek": 1160,
-    "timeMonth": 1186,
-    "timeYear": 1231,
+    "time": 1230,
+    "timeDay": 1014,
+    "timeWeek": 1175,
+    "timeMonth": 1175,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2022-09-20": 17
     }
