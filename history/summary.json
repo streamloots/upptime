@@ -6,9 +6,9 @@
     "slug": "www-landing",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 2153,
     "timeDay": 3047,
@@ -16,7 +16,7 @@
     "timeMonth": 2086,
     "timeYear": 2153,
     "dailyMinutesDown": {
-      "2023-03-04": 1,
+      "2023-03-04": 13,
       "2023-01-26": 21
     }
   },
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.streamloots.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1217,
     "timeDay": 885,
     "timeWeek": 1072,
     "timeMonth": 1091,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2023-03-04": 0,
+      "2023-03-04": 13,
       "2023-01-26": 20,
       "2022-09-20": 17
     }
