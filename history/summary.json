@@ -67,18 +67,20 @@
     "url": "https://widgets.streamloots.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/widgets.streamloots.com.ico",
     "slug": "widgets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 85,
-    "timeWeek": 172,
-    "timeMonth": 202,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 5152,
+    "timeWeek": 1428,
+    "timeMonth": 525,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   },
   {
     "name": "Blog",
