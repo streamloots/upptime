@@ -27,18 +27,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.streamloots.com.ico",
     "slug": "www-streamers",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 93,
     "timeWeek": 302,
     "timeMonth": 257,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-07-08": 8,
       "2022-09-20": 15
     }
   },
@@ -49,9 +48,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 270,
     "timeDay": 200,
@@ -59,7 +58,6 @@
     "timeMonth": 222,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-07-08": 8,
       "2022-10-16": 19,
       "2022-09-20": 15
     }
@@ -71,18 +69,16 @@
     "slug": "widgets",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 171,
     "timeWeek": 236,
     "timeMonth": 506,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2023-07-08": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
