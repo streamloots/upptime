@@ -40,19 +40,19 @@
     "url": "https://api.streamloots.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/api.streamloots.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 1739,
-    "timeWeek": 758,
-    "timeMonth": 345,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "85.47%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.96%",
+    "time": 240,
+    "timeDay": 1333,
+    "timeWeek": 694,
+    "timeMonth": 339,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 209
     }
   },
   {
