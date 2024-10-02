@@ -4,19 +4,19 @@
     "url": "https://www.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.streamloots.com.ico",
     "slug": "www-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 1146,
-    "timeWeek": 552,
-    "timeMonth": 545,
-    "timeYear": 1125,
+    "time": 1168,
+    "timeDay": 708,
+    "timeWeek": 517,
+    "timeMonth": 536,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2024-10-02": 0
+      "2024-10-02": 7
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://blog.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.streamloots.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1396,
-    "timeDay": 441,
-    "timeWeek": 860,
-    "timeMonth": 875,
-    "timeYear": 1411,
+    "time": 1394,
+    "timeDay": 475,
+    "timeWeek": 824,
+    "timeMonth": 864,
+    "timeYear": 1409,
     "dailyMinutesDown": {
-      "2024-10-02": 0
+      "2024-10-02": 7
     }
   }
 ]
