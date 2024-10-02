@@ -4,9 +4,9 @@
     "url": "https://www.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.streamloots.com.ico",
     "slug": "www-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 552,
     "timeMonth": 545,
     "timeYear": 1125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   },
   {
     "name": "WWW - Streamers",
@@ -78,17 +80,19 @@
     "url": "https://blog.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.streamloots.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1399,
-    "timeDay": 764,
-    "timeWeek": 966,
-    "timeMonth": 900,
-    "timeYear": 1415,
-    "dailyMinutesDown": {}
+    "time": 1396,
+    "timeDay": 441,
+    "timeWeek": 860,
+    "timeMonth": 875,
+    "timeYear": 1411,
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   }
 ]
