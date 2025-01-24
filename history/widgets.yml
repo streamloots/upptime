@@ -1,7 +1,7 @@
 url: https://widgets.streamloots.com/heartbeat
-status: down
-code: 504
-responseTime: 10115
-lastUpdated: 2025-01-24T21:00:24.615Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2025-01-24T21:28:52.398Z
 startTime: 2022-09-03T16:21:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
