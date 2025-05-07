@@ -98,17 +98,19 @@
     "url": "https://blog.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.streamloots.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
+    "time": 1046,
     "timeDay": 318,
     "timeWeek": 423,
     "timeMonth": 469,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
