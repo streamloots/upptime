@@ -4,19 +4,19 @@
     "url": "https://www.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.streamloots.com.ico",
     "slug": "www-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 360,
-    "timeWeek": 507,
-    "timeMonth": 570,
-    "timeYear": 567,
+    "time": 611,
+    "timeDay": 456,
+    "timeWeek": 537,
+    "timeMonth": 578,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 13
     }
   },
   {
