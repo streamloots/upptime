@@ -4,18 +4,20 @@
     "url": "https://www.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.streamloots.com.ico",
     "slug": "www-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 573,
+    "time": 572,
     "timeDay": 376,
     "timeWeek": 605,
     "timeMonth": 588,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-15": 0
+    }
   },
   {
     "name": "WWW - Streamers",
@@ -100,17 +102,19 @@
     "url": "https://blog.streamloots.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.streamloots.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 347,
-    "timeWeek": 466,
-    "timeMonth": 486,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 613,
+    "timeDay": 239,
+    "timeWeek": 433,
+    "timeMonth": 476,
+    "timeYear": 491,
+    "dailyMinutesDown": {
+      "2025-11-15": 0
+    }
   }
 ]
