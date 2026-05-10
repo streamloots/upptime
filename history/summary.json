@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 676,
-    "timeWeek": 752,
-    "timeMonth": 539,
-    "timeYear": 579,
+    "time": 578,
+    "timeDay": 859,
+    "timeWeek": 769,
+    "timeMonth": 559,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 379,
-    "timeWeek": 470,
-    "timeMonth": 264,
-    "timeYear": 275,
+    "timeDay": 536,
+    "timeWeek": 468,
+    "timeMonth": 280,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -47,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 462,
-    "timeDay": 313,
-    "timeWeek": 333,
-    "timeMonth": 273,
-    "timeYear": 341,
-    "dailyMinutesDown": {
-      "2025-05-10": 71
-    }
+    "timeDay": 527,
+    "timeWeek": 360,
+    "timeMonth": 285,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Widgets",
@@ -67,13 +65,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 485,
-    "timeDay": 276,
+    "timeDay": 320,
     "timeWeek": 323,
-    "timeMonth": 241,
+    "timeMonth": 248,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-05-27": 39,
-      "2025-05-10": 18
+      "2025-05-27": 39
     }
   },
   {
@@ -87,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 516,
-    "timeWeek": 538,
-    "timeMonth": 471,
-    "timeYear": 465,
+    "time": 469,
+    "timeDay": 588,
+    "timeWeek": 547,
+    "timeMonth": 480,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   }
 ]
