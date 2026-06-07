@@ -40,27 +40,29 @@
     "url": "https://api.streamloots.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/api.streamloots.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 370,
+    "time": 371,
     "timeDay": 181,
     "timeWeek": 245,
     "timeMonth": 244,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-07": 5
+    }
   },
   {
     "name": "Widgets",
     "url": "https://widgets.streamloots.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/widgets.streamloots.com.ico",
     "slug": "widgets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 224,
     "timeMonth": 207,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-07": 0
+    }
   },
   {
     "name": "Blog",
