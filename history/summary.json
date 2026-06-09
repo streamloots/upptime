@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 330,
-    "timeWeek": 505,
-    "timeMonth": 487,
-    "timeYear": 576,
+    "time": 573,
+    "timeDay": 378,
+    "timeWeek": 491,
+    "timeMonth": 477,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 171,
-    "timeWeek": 261,
-    "timeMonth": 262,
-    "timeYear": 276,
+    "time": 309,
+    "timeDay": 88,
+    "timeWeek": 264,
+    "timeMonth": 253,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 371,
-    "timeDay": 273,
-    "timeWeek": 245,
-    "timeMonth": 243,
-    "timeYear": 269,
+    "timeDay": 160,
+    "timeWeek": 247,
+    "timeMonth": 238,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-06-07": 52
     }
@@ -62,15 +62,15 @@
     "slug": "widgets",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 206,
-    "timeWeek": 214,
-    "timeMonth": 204,
-    "timeYear": 241,
+    "timeDay": 189,
+    "timeWeek": 218,
+    "timeMonth": 202,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2026-06-07": 47
     }
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 364,
-    "timeWeek": 422,
-    "timeMonth": 431,
-    "timeYear": 464,
+    "timeDay": 355,
+    "timeWeek": 433,
+    "timeMonth": 426,
+    "timeYear": 463,
     "dailyMinutesDown": {}
   }
 ]
